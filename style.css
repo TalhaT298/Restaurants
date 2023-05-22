@@ -456,6 +456,12 @@ footer section Design
   padding-top: 40px;
   padding-bottom: 40px;
 }
+.inline{
+  display: inline;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgba(194, 138, 17, 0.943);
+}
 
 @media (max-width: 991px){
   .map-area{
